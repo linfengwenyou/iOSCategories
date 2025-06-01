@@ -1,0 +1,29 @@
+//
+//  PrefixHeader.pch
+//  TestCategoriesDemo
+//
+//  Created by Buck on 2025/6/1.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIView+Frame.h"
+#import "UIView+Action.h"
+#import "UIView+Gradient.h"
+#import "UIView+Corner.h"
+
+#import "NSData+Encrypt.h"
+
+#import "NSString+Date.h"
+#import "NSString+PinYin.h"
+#import "NSString+Regex.h"
+#import "NSString+Encrypt.h"
+#import "NSString+URLEncode.h"
+#import "NSString+Utils.h"
+
+#import "NSArray+Utils.h"
+#import "NSDictionary+Utils.h"
+
+
+#endif /* PrefixHeader_pch */
